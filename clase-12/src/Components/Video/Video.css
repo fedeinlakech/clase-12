@@ -1,0 +1,11 @@
+.Video {
+    border: double 10px blue;
+    padding: 15px 0;
+    background-color: bisque;
+}
+
+.Video p {
+    font-size: 25px;
+    font-weight: bold;
+    color: blueviolet;
+}
